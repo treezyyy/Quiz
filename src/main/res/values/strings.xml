@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="login">Вход</string>
+    <string name="register">Регистрация</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="login_btn">Войти</string>
+    <string name="register_btn">Зарегистрироваться</string>
+    <string name="no_account">Ещё нет аккаунта? Зарегистрироваться</string>
+    <string name="have_account">Уже есть аккаунт? Войти</string>
+    <string name="logout">Выйти</string>
+    <string name="welcome">Добро пожаловать!</string>
+</resources>
